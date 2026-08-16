@@ -1,106 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-    <!-- Página inicial -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/</loc>
-        <priority>1.0</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/</loc>
+  </url>
 
-    <!-- Cusco + Machu Picchu -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-cusco-machu-picchu-3-dias.html</loc>
-        <priority>0.9</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-cusco-machu-picchu-3-dias.html</loc>
+  </url>
 
-    <!-- Cusco Cultural + Trekking -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-cusco-cultural-trekking-5-dias.html</loc>
-        <priority>0.9</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-cusco-cultural-trekking-5-dias.html</loc>
+  </url>
 
-    <!-- Machu Picchu + Trekking -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-machu-picchu-trekking-4-dias.html</loc>
-        <priority>0.9</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-machu-picchu-trekking-4-dias.html</loc>
+  </url>
 
-    <!-- Cusco + Vale Sagrado + Trekking -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-cusco-vale-sagrado-trekking-5-dias.html</loc>
-        <priority>0.9</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-cusco-vale-sagrado-trekking-5-dias.html</loc>
+  </url>
 
-    <!-- Cusco + Puno -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-cusco-puno-8-dias.html</loc>
-        <priority>0.8</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-cusco-puno-8-dias.html</loc>
+  </url>
 
-    <!-- Cusco Colorido -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-cusco-colorido-7-dias.html</loc>
-        <priority>0.8</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-cusco-colorido-7-dias.html</loc>
+  </url>
 
-    <!-- Cusco Completo -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-cusco-completo-8-dias.html</loc>
-        <priority>0.9</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-cusco-completo-8-dias.html</loc>
+  </url>
 
-    <!-- Cusco Inesquecível -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-cusco-inesquecivel-6-dias.html</loc>
-        <priority>0.8</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-cusco-inesquecivel-6-dias.html</loc>
+  </url>
 
-    <!-- Cusco Tradicional -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-cusco-tradicional-5-dias.html</loc>
-        <priority>0.9</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-cusco-tradicional-5-dias.html</loc>
+  </url>
 
-    <!-- Lima + Cusco -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-lima-cusco-5-dias.html</loc>
-        <priority>0.8</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-lima-cusco-5-dias.html</loc>
+  </url>
 
-    <!-- Lima + Ica 3 dias -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-lima-ica-3-dias.html</loc>
-        <priority>0.8</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-lima-ica-3-dias.html</loc>
+  </url>
 
-    <!-- Lima + Ica 4 dias -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-lima-ica-4-dias.html</loc>
-        <priority>0.8</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-lima-ica-4-dias.html</loc>
+  </url>
 
-    <!-- Lima 2 dias -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-lima-2-dias.html</loc>
-        <priority>0.8</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-lima-2-dias.html</loc>
+  </url>
 
-    <!-- Lima 3 dias -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-lima-3-dias.html</loc>
-        <priority>0.8</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-lima-3-dias.html</loc>
+  </url>
 
-    <!-- Lima 4 dias -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-lima-4-dias.html</loc>
-        <priority>0.8</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-lima-4-dias.html</loc>
+  </url>
 
-    <!-- Lima + Ica + Cusco -->
-    <url>
-        <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-lima-ica-cusco-8-dias.html</loc>
-        <priority>0.9</priority>
-    </url>
+  <url>
+    <loc>https://heiderscheidt42-cyber.github.io/Caminho-Peru/pacote-lima-ica-cusco-8-dias.html</loc>
+  </url>
 
 </urlset>
