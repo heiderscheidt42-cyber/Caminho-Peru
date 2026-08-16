@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://heiderscheidt42-cyber.github.io/Caminho-Peru/sitemap.xml
